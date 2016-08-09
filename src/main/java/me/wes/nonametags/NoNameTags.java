@@ -34,7 +34,7 @@ public class NoNameTags {
 
     @SubscribeEvent(priority = EventPriority.NORMAL)
     public void onHudRender(RenderLivingEvent.Specials.Pre e) {
-        if(Minecraft.getMinecraft().gameSettings.hideGUI) e.setCanceled(true);
+        if(Minecraft.getMinecraft().gameSettings.hideGUI) e.setCancelled(true);
     }
 
 }
