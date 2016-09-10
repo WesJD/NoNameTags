@@ -1,0 +1,6 @@
+[{
+  "modid": "nonametags",
+  "name": "NoNameTags",
+  "version": "${version}",
+  "mcversion": "${mcversion}"
+}]

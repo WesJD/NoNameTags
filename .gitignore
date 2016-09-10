@@ -14,10 +14,8 @@ out
 .idea
 
 # gradle
+.gradle
 build
-*.gradle
-gradle
-gradlew
 *.bat
 
 # other
